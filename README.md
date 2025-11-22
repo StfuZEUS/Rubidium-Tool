@@ -20,3 +20,20 @@ Latest Update ```Version v1.0```
 🔁 -> Frequently **Updated**
 
 💰 -> **Free** For Everyone
+
+# 🎮 • Functions
+
+```
+[01] → Tool Info                         [11] → Email Tracker
+[02] → Tool Site                         [12] → Email Info
+[03] → Virus Builder                     [13] → Number Info
+[04] → Sql Vulnerability                 [14] → Ip Info
+[05] → Website Scanner                   [15] → Ip Port Scanner
+[06] → Illegal Website                   [16] → Ip Ping
+[07] → Search In Database                [17] → Ip Generator  
+[08] → Dox Creator                       [18] → Password Encrypted
+[09] → Dox Attacker                      [19] → Password Decrypted 
+[10] → Username Tracker                  [20] → Get Your Ip
+
+╭───(Rubidium)-[~]
+╰$ »
