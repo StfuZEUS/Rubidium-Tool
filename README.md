@@ -7,4 +7,10 @@ Latest Update ```Version v1.0```
 
 # 📜 • Description 
 
-👨‍💻 Develop In *Python*
+👨‍💻 -> Develop In **Python**.
+🌍 -> Tool In **English**.
+💻 -> Available In **Termux** And **Linux.**
+🔍 -> **No Malware** And **BackDoor**.
+📁 -> **Open Source** Only For Verification,Emuring No Malicious Programs.
+🔁 -> Frequently **Updated**
+💰 -> **Free** For Everyone
