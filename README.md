@@ -37,3 +37,28 @@ Latest Update ```Version v1.0```
 
 ╭───(Rubidium)-[~]
 ╰$ »
+```
+
+# 🔒 • Requirement
+
+**Linux**
+
+**•** Must Install **Python** And **Git**
+
+```
+sudo apt-get install git
+sudo apt-get install python3
+```
+**Termux**
+
+**•** Must Install **Python** And **Git**
+
+```
+pkg install git
+pkg install python3
+```
+
+# 👽 • Installation 
+
+```
+git clone 
