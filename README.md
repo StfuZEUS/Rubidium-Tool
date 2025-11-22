@@ -61,4 +61,7 @@ pkg install python3
 # 👽 • Installation 
 
 ```
-git clone 
+git clone https://github.com/StfuZEUS/Rubidium-Tool.git
+cd Rubidium-Tool
+python main.py
+```
